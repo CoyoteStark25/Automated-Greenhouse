@@ -2,7 +2,7 @@
 
 An Automated Greenhouse Environment Control System for Precision Agriculture
 
-![Smart Greenhouse System](docs/GreenhouseImg1.jpg)
+![Smart Greenhouse System](doc/GreenhouseImg1.jpg)
 
 ## 1. Overview
 
@@ -86,10 +86,10 @@ The system employs a dual-microcontroller architecture that separates sensing fr
 
 ### Mechanical Design
 
-![Greenhouse Structure](docs/GreenhouseImg3.jpg)
+![Greenhouse Structure](doc/GreenhouseImg3.jpg)
 *Complete greenhouse prototype showing wooden frame and tarpaulin covering*
 
-![Internal Layout](docs/GreenhouseImg7.jpg)
+![Internal Layout](doc/GreenhouseImg7.jpg)
 *Internal structure showing soil beds, water tanks, and irrigation system*
 
 The greenhouse structure features:
@@ -104,7 +104,7 @@ The greenhouse structure features:
 
 ### Control Interface
 
-![User Interface](docs/control_panel.jpg)
+![User Interface](doc/GreenhouseImg2.jpg)
 *Dual-LCD interface with keypad for parameter configuration and monitoring*
 
 **Interface Features:**
